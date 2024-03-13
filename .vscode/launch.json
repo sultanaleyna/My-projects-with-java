@@ -1,0 +1,28 @@
+{
+    // Olası öznitelikler hakkında bilgi edinmek için IntelliSense kullanın.
+    // Mevcut özniteliklerin açıklamalarını görüntülemek için üzerine gelin.
+    // Daha fazla bilgi için şu adresi ziyaret edin: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Gelismis_Hesap_Makinesi",
+            "request": "launch",
+            "mainClass": "java_metotlar.Gelismis_Hesap_Makinesi",
+            "projectName": "java patika_b233de6c"
+        },
+        {
+            "type": "java",
+            "name": "Java_recursiveİle_ÜslüSayi",
+            "request": "launch",
+            "mainClass": "java_metotlar.Java_recursiveİle_ÜslüSayi",
+            "projectName": "java patika_b233de6c"
+        }
+    ]
+}
