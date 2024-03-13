@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "recursive_ileAsalSayi",
+            "request": "launch",
+            "mainClass": "java_metotlar.recursive_ileAsalSayi",
+            "projectName": "java patika_b233de6c"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
