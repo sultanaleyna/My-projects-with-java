@@ -1,4 +1,4 @@
-package metotlar;
+package java_metotlar;
 
 import java.util.Scanner;
 
